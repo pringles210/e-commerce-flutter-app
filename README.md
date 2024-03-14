@@ -1,5 +1,7 @@
 # ecommerce_flutter_app
 
+A generic ecommerce flutter app
+
 A new Flutter project.
 
 ## Getting Started
